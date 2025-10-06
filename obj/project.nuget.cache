@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VY/dpWnbwgw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Welcome\\Desktop\\SamplePlugin\\StepCounter\\StepCounter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Welcome\\.nuget\\packages\\dalamudpackager\\13.1.0\\dalamudpackager.13.1.0.nupkg.sha512",
+    "C:\\Users\\Welcome\\.nuget\\packages\\dotnet.reproduciblebuilds\\1.2.25\\dotnet.reproduciblebuilds.1.2.25.nupkg.sha512"
+  ],
+  "logs": []
+}

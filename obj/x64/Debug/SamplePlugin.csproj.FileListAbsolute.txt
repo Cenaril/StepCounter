@@ -1,0 +1,5 @@
+C:\Users\Welcome\Desktop\StepCounter-master\SamplePlugin\obj\x64\Debug\SamplePlugin.csproj.AssemblyReference.cache
+C:\Users\Welcome\Desktop\StepCounter-master\SamplePlugin\obj\x64\Debug\SamplePlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welcome\Desktop\StepCounter-master\SamplePlugin\obj\x64\Debug\SamplePlugin.AssemblyInfoInputs.cache
+C:\Users\Welcome\Desktop\StepCounter-master\SamplePlugin\obj\x64\Debug\SamplePlugin.AssemblyInfo.cs
+C:\Users\Welcome\Desktop\StepCounter-master\SamplePlugin\obj\x64\Debug\SamplePlugin.csproj.CoreCompileInputs.cache

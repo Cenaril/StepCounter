@@ -1,0 +1,23 @@
+{
+  "Author": "Cenaril",
+  "Name": "StepCounter",
+  "InternalName": "StepCounter",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "A simple plugin that counts your steps in Final Fantasy XIV.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Cenaril/StepCounter.git",
+  "Tags": [
+    "utility",
+    "fun",
+  ],
+  "DalamudApiLevel": 10,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "ImageUrls": [],
+  "IconUrl": "",
+  "Punchline": "Track your steps across Eorzea!",
+  "Changelog": "Initial release — basic step counting and UI toggle.",
+  "AcceptsFeedback": true
+}

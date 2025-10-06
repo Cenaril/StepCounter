@@ -1,0 +1,9 @@
+C:\Users\Welcome\Desktop\SamplePlugin\StepCounter\bin\Debug\goat.png
+C:\Users\Welcome\Desktop\SamplePlugin\StepCounter\bin\Debug\StepCounter.deps.json
+C:\Users\Welcome\Desktop\SamplePlugin\StepCounter\bin\Debug\StepCounter.dll
+C:\Users\Welcome\Desktop\SamplePlugin\StepCounter\obj\Debug\StepCounter.csproj.AssemblyReference.cache
+C:\Users\Welcome\Desktop\SamplePlugin\StepCounter\obj\Debug\StepCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welcome\Desktop\SamplePlugin\StepCounter\obj\Debug\StepCounter.AssemblyInfoInputs.cache
+C:\Users\Welcome\Desktop\SamplePlugin\StepCounter\obj\Debug\StepCounter.AssemblyInfo.cs
+C:\Users\Welcome\Desktop\SamplePlugin\StepCounter\obj\Debug\StepCounter.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\Desktop\SamplePlugin\StepCounter\obj\Debug\StepCounter.dll

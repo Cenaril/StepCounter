@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Dalamud.NET.Sdk/13.1.0">
+
+  <PropertyGroup>
+    <!-- Informazioni di base del plugin -->
+    <Version>0.0.0.1</Version>
+    <Authors>Cenaril</Authors>
+    <Product>StepCounter</Product>
+    <Description>A simple Dalamud plugin that counts your steps.</Description>
+    <PackageProjectUrl>https://github.com/tuo-repo/StepCounter</PackageProjectUrl>
+    <PackageLicenseExpression>AGPL-3.0-or-later</PackageLicenseExpression>
+    <IsPackable>false</IsPackable>
+
+    <!-- Impostazioni di build -->
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <DalamudManifest>manifest.json</DalamudManifest>
+  </PropertyGroup>
+
+  <!-- Includi risorse extra -->
+  <ItemGroup>
+    <Content Include="..\Data\goat.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+  </ItemGroup>
+
+</Project>
+
